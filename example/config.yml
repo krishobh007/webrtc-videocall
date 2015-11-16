@@ -1,0 +1,4 @@
+debug: false
+
+applications:
+  chat_app: my_secret
